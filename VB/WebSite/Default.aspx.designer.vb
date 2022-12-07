@@ -41,7 +41,7 @@ Namespace ModalLoadingPanel
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' AccessDataSource1 control.
@@ -59,6 +59,6 @@ Namespace ModalLoadingPanel
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxLoadingPanel1 As Global.DevExpress.Web.ASPxLoadingPanel.ASPxLoadingPanel
+		Protected ASPxLoadingPanel1 As Global.DevExpress.Web.ASPxLoadingPanel
 	End Class
 End Namespace
